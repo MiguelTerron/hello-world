@@ -1,2 +1,2 @@
 # hello-world
-This is test for me to learn about the basics of GitHub
+I like martial arts and open-air sports/activities such as cycling or running
